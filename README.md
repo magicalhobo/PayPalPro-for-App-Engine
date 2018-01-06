@@ -1,4 +1,5 @@
-#Sample usage
+# Sample usage
+
 You will receive a username, password and signature when signing up for a PayPal developer account.  Place this info in the get_paypal method.  The transactions are hardcoded for 0.01 USD.
 
 ```python
